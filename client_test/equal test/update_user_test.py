@@ -4,7 +4,7 @@ import requests
 base_url = 'http://52.78.68.85:8000/api/players/'
 
 # 수정할 플레이어의 ID
-player_id = 'player123'  # 예시로 1번 플레이어를 수정한다고 가정합니다.
+player_id = 'player1234'  # 예시로 1번 플레이어를 수정한다고 가정합니다.
 
 # PATCH 요청으로 업데이트할 데이터
 updated_data = {
